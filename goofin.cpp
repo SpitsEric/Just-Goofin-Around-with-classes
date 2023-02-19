@@ -59,6 +59,7 @@ int main()
             break;
         case 3:
             mark.pooping();
+            break;    
         case 4:
             cout << "Ok!\nLets go for a walk!\n";
             break;
